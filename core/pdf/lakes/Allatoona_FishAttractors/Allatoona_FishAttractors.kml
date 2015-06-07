@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Allatoona_FishAttractors" id="Allatoona_FishAttractors">
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="X" type="float"></SimpleField>
+	<SimpleField name="Y" type="float"></SimpleField>
+</Schema>
+<Folder><name>Allatoona_FishAttractors</name>
+  <Placemark>
+	<name>1</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72225</SimpleData>
+		<SimpleData name="Y">34.1458</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72225,34.1458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.725</SimpleData>
+		<SimpleData name="Y">34.14961667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.725,34.14961667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.7176</SimpleData>
+		<SimpleData name="Y">34.14095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.7176,34.14095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.70638333</SimpleData>
+		<SimpleData name="Y">34.13528333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.70638333,34.13528333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72075</SimpleData>
+		<SimpleData name="Y">34.1411</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72075,34.1411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72063333</SimpleData>
+		<SimpleData name="Y">34.12063333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72063333,34.12063333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71883333</SimpleData>
+		<SimpleData name="Y">34.15501667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71883333,34.15501667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71346667</SimpleData>
+		<SimpleData name="Y">34.11858333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71346667,34.11858333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72915</SimpleData>
+		<SimpleData name="Y">34.16696667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72915,34.16696667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.7092</SimpleData>
+		<SimpleData name="Y">34.17346667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.7092,34.17346667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71846667</SimpleData>
+		<SimpleData name="Y">34.16778333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71846667,34.16778333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72796667</SimpleData>
+		<SimpleData name="Y">34.1492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72796667,34.1492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71351667</SimpleData>
+		<SimpleData name="Y">34.14036667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71351667,34.14036667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.67186667</SimpleData>
+		<SimpleData name="Y">34.13503333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.67186667,34.13503333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.66808333</SimpleData>
+		<SimpleData name="Y">34.15678333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.66808333,34.15678333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.6616</SimpleData>
+		<SimpleData name="Y">34.1602</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.6616,34.1602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.66156667</SimpleData>
+		<SimpleData name="Y">34.15098333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.66156667,34.15098333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.64885</SimpleData>
+		<SimpleData name="Y">34.144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.64885,34.144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.6444</SimpleData>
+		<SimpleData name="Y">34.14233333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.6444,34.14233333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.6394</SimpleData>
+		<SimpleData name="Y">34.14158333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.6394,34.14158333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.6582</SimpleData>
+		<SimpleData name="Y">34.14055</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.6582,34.14055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.62315</SimpleData>
+		<SimpleData name="Y">34.12588333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.62315,34.12588333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.61355</SimpleData>
+		<SimpleData name="Y">34.1234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.61355,34.1234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.613</SimpleData>
+		<SimpleData name="Y">34.12491667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.613,34.12491667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.60981667</SimpleData>
+		<SimpleData name="Y">34.1297</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.60981667,34.1297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.69661667</SimpleData>
+		<SimpleData name="Y">34.15811667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.69661667,34.15811667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.65011667</SimpleData>
+		<SimpleData name="Y">34.13533333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.65011667,34.13533333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.64696667</SimpleData>
+		<SimpleData name="Y">34.13868333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.64696667,34.13868333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.61446667</SimpleData>
+		<SimpleData name="Y">34.12335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.61446667,34.12335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.62748333</SimpleData>
+		<SimpleData name="Y">34.15225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.62748333,34.15225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.62766667</SimpleData>
+		<SimpleData name="Y">34.15738333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.62766667,34.15738333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.59706667</SimpleData>
+		<SimpleData name="Y">34.18328333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.59706667,34.18328333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.58458333</SimpleData>
+		<SimpleData name="Y">34.18636667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.58458333,34.18636667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.59643333</SimpleData>
+		<SimpleData name="Y">34.17435</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.59643333,34.17435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.62191667</SimpleData>
+		<SimpleData name="Y">34.12816667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.62191667,34.12816667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.61945</SimpleData>
+		<SimpleData name="Y">34.12695</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.61945,34.12695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.70543333</SimpleData>
+		<SimpleData name="Y">34.1233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.70543333,34.1233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72181667</SimpleData>
+		<SimpleData name="Y">34.13131667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72181667,34.13131667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71655</SimpleData>
+		<SimpleData name="Y">34.14906667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71655,34.14906667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72358333</SimpleData>
+		<SimpleData name="Y">34.15615</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72358333,34.15615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.7231</SimpleData>
+		<SimpleData name="Y">34.1578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.7231,34.1578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72985</SimpleData>
+		<SimpleData name="Y">34.16948333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72985,34.16948333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.72958333</SimpleData>
+		<SimpleData name="Y">34.17323333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.72958333,34.17323333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.71196667</SimpleData>
+		<SimpleData name="Y">34.18996667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.71196667,34.18996667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.68831667</SimpleData>
+		<SimpleData name="Y">34.17565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.68831667,34.17565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.69311667</SimpleData>
+		<SimpleData name="Y">34.18083333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.69311667,34.18083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.68911667</SimpleData>
+		<SimpleData name="Y">34.16203333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.68911667,34.16203333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.68526667</SimpleData>
+		<SimpleData name="Y">34.16488333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.68526667,34.16488333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.64831667</SimpleData>
+		<SimpleData name="Y">34.14225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.64831667,34.14225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.64191667</SimpleData>
+		<SimpleData name="Y">34.14408333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.64191667,34.14408333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53</name>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.63845</SimpleData>
+		<SimpleData name="Y">34.14265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.63845,34.14265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.709704</SimpleData>
+		<SimpleData name="Y">34.057439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.709704,34.057439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.724192</SimpleData>
+		<SimpleData name="Y">34.146397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.724192,34.146397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.647072</SimpleData>
+		<SimpleData name="Y">34.133038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.647072,34.133038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.6161</SimpleData>
+		<SimpleData name="Y">34.122107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.6161,34.122107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.622393</SimpleData>
+		<SimpleData name="Y">34.15393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.622393,34.15393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59</name>
+	<description>Brush Piles</description>
+	<ExtendedData><SchemaData schemaUrl="#Allatoona_FishAttractors">
+		<SimpleData name="X">-84.559244</SimpleData>
+		<SimpleData name="Y">34.202383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.559244,34.202383</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

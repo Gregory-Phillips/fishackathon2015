@@ -1,0 +1,303 @@
+
+.blurbMediumImage {
+	max-width: 300px !Important;
+}
+.blurbPosition0 {
+	margin-bottom: 14px;
+}
+.blurbPosition22 {
+	width: 50%;
+	max-width: 300px;
+	margin: 0 20px 12px 0;
+	padding:16px;
+	border:1px solid #eee;
+	float:left;
+}
+@media (min-width:900px) {
+	.blurbPosition22 {
+		width:33.3%;
+		max-width: 400px;
+	}
+}
+@media (max-width:599px) {
+	.blurbPosition22 {
+		width:100%;
+		max-width: 100%;
+	}
+}
+
+/* Also resides in parks/template/css */
+
+/* SLIDESHOW */
+.slideshow {
+position:relative;
+padding:0;
+margin:0;
+height:100%;
+}
+.slideshow a img {
+border:none;
+}
+.slideshow li.slide {
+list-style-type:none;
+}
+.slideshow .slides {
+margin:0;
+}
+.slideshow .slides li.slide {
+z-index:0;
+visibility:hidden;
+position:absolute;
+left:0px;
+top:0;
+}
+.slideshow .slideHolder {
+position:relative;
+height:100%;
+}
+
+.slideshow .blurbNumbers { display:block; z-index:100; position:absolute; left:5px; bottom:8px; margin:4px; line-height:10px; }
+.slideshow .blurbNumbers a { min-width:9px; height:11px; padding:3px; padding-bottom:0px; padding-top:0px; padding-left:3px; margin:0px; margin-left:4px; margin-bottom:4px; line-height:10px; color: #888; background-color:#000; border: solid 1px #fff; text-align:center; }
+.slideshow .blurbNumbers a:hover { text-decoration:none; color:#dddd0a; }
+.slideshow .blurbNumbers a.active { color: #fff; }
+
+/*
+.slideshow .buttons {
+display:block;
+z-index:100;
+position:absolute;
+right:0px;
+bottom:0px;
+margin:4px;
+}
+.slideshow .buttons li {
+float:left;
+display:inline;
+min-width:9px;
+height:11px;
+padding:2px;
+padding-left:3px;
+margin:0px;
+margin-left:4px;
+margin-bottom:4px;
+line-height:10px;
+background-color: #000;
+border: solid 1px #fff;
+text-align:center;
+}
+.slideshow .buttons li a {
+float:left;
+text-decoration:none;
+width1:30px;
+height1:30px;
+color:#999999;
+outline:0;
+}
+.slideshow ul.buttons li a:hover {
+text-decoration:none;
+color:#dddd0a;
+}
+.slideshow ul.buttons li.active a:hover,
+.slideshow ul.buttons li.active a {
+color:#fff;
+}
+*/
+
+.bannerRotate {
+position:relative;
+padding:0;
+margin:0;
+height:100%;
+}
+.bannerRotate a img {
+border:none;
+}
+.bannerRotate li.slide {
+list-style-type:none;
+}
+.bannerRotate .slides {
+margin:0;
+}
+.bannerRotate .slides li.slide {
+z-index:0;
+visibility:hidden;
+position:absolute;
+left:0px;
+top:0;
+}
+.bannerRotate .slideHolder {
+position:relative;
+height:100%;
+margin-top:10px;
+}
+
+.bannerRotate .blurbNumbers { line-height:10px; height:100%; width:9px; z-index:100; position:absolute; right:8px; bottom:0px; margin:0px; }
+.bannerRotate .blurbNumbers a { border: solid 1px #fff; min-width:9px; font-size:7pt; border-bottom:solid 1px #aaa; padding:3px; padding-bottom:0px; padding-top:0px; padding-left:3px; margin:0px; margin-left:4px; color: #888; background-color:#cccda0; text-align:center; }
+.bannerRotate .blurbNumbers a:hover { text-decoration:none; color:#fff; }
+.bannerRotate .blurbNumbers a.active { color: #fff; }
+
+/* parks/template/blurbfeed.js */
+.blurbNumber { border: solid 1px #fff; min-width:9px; font-size:7pt; line-height:12px; border-bottom:solid 1px #aaa; padding:3px; padding-bottom:0px; padding-top:0px; padding-left:3px; margin:0px; margin-left:4px; color: #888; background-color:#cccda0; text-align:center; cursor:pointer; }
+.blurbNumbers .activeNav {
+	color: #fff;
+}
+@media (max-width:650px) {
+	.bannerRotate a img {
+		width:100%;
+	}
+}
+
+/*
+.bannerRotate .buttons 
+{
+height:100%;
+width:9px;
+display:block;
+z-index:100;
+position:absolute;
+right:0px;
+bottom:0px;
+margin:0px;
+padding-right:2px;
+background-color: #e6e8cf;
+}
+.bannerRotate .buttons li {
+float:left;
+display:inline;
+width:8px;
+height:10px;
+font-size:7pt;
+margin:0px;
+padding-left:4px;
+padding-right:0px;
+line-height:10px;
+border-bottom:solid 1px #aaa;
+background-color:#cccda0;
+}
+.bannerRotate .buttons li a {
+float:left;
+text-decoration:none;
+width:8px;
+height:10px;
+color:#999999;
+outline:0;
+}
+.bannerRotate ul.buttons li a:hover {
+text-decoration:none;
+color:#dddd0a;
+}
+.bannerRotate ul.buttons li.active a:hover,
+.bannerRotate ul.buttons li.active a {
+color:#fff;
+}
+*/
+
+.singleBlurbPos11
+{
+	margin-top: 10px; /* Space above banner */
+}
+/* END SLIDESHOW */
+
+/* YOUTUBE EMBED */
+
+.flashContainer{
+	border:1px solid #fff;
+	/*  Caused space above in journal position 22
+	margin:40px auto; */
+	outline:1px solid #aaa;
+}
+
+fieldset{
+	border:none;
+	margin:0;padding:0;
+}
+
+form small{
+	float:left;
+	position:relative;
+	right:-70px;
+	top:-20px;
+}
+
+#page{
+	/* This the main container div */
+	width:1000px;
+	margin:0 auto 100px;
+	position:relative;
+	padding-top:1px;
+}
+
+/*
+    Player controls
+*/
+
+.flashContainer{
+
+	/*	Setting the container to relative positioning
+		so we can center the control div */
+
+	position:relative;
+	overflow:hidden;
+}
+
+.progressBar{
+	display:none;
+	position:absolute;
+	width:auto;
+	height:8px;
+	left:20px;
+	right:105px;
+	bottom:20px;
+	background-color:#141414;
+	overflow:hidden;
+	cursor:pointer;
+	
+	/* A light CSS3 bottom highlight */
+	
+	-moz-box-shadow:0 1px 0 rgba(255, 255, 255, 0.3);
+	-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, 0.3);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.progressBar .elapsed{
+	position:absolute;
+	width:0;
+	height:100%;
+	background-color:#1fa2f6;
+	border-right:1px solid #49AFF0;
+}
+
+.controlDiv{
+	/* Centering the control div */
+	position:absolute;
+	width:120px;
+	height:120px;
+	cursor:pointer;
+	top:50%;
+	left:50%;
+	margin:-60px 0 0 -60px;
+}
+
+.controlDiv.play{
+	background:url('/samples/video/img/play.png') no-repeat center center;
+}
+
+.controlDiv.replay{
+	background:url('/samples/video/img/replay.png') no-repeat center center;
+}
+
+.controlDiv.pause{
+	background:url('/samples/video/img/pause.png') no-repeat -99999px;
+}
+
+.flashContainer:hover .controlDiv.pause{
+	background-position:center center;
+}
+
+/* Only show the progress bar when the video is playing */
+
+.flashContainer.playing:hover .progressBar{
+	display:block;
+}
+
+/* END YOUTUBE EMBED */
